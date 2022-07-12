@@ -1,5 +1,5 @@
 {
-      "name": "「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」",
+      "name": "「 ɪɴsᴀɴᴇ 𒆜 ʀᴏʙᴏᴛ 」",
       "description": "Telegram Group Management Bot.",
       "logo": "https://telegra.ph/file/05982372c0c7b30bee416.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "Abishnoi"
       ],   
-   "repository": "https://github.com/KingAbishnoi/AbishnoiRobot",
+   "repository": "https://github.com/DarkXAdi/InsaneXRobot",
    "addons": [
       {
          "options": {
