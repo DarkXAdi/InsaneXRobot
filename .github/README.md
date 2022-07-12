@@ -41,9 +41,9 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 
+ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɪɴsᴀɴᴇ 𒆜 ʀᴏʙᴏᴛ 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KingAbishnoi/AbishnoiRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DarkXAdi/InsaneXRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━∆
@@ -53,4 +53,4 @@
     ─「ㅤㅤㅤㅤCREDITS 」─
 
 
-🖤 𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 :  ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/AnonymousBoy1025)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/anonymous_was_bot)
+🖤** ᴀᴅɪᴛʏᴀ ᴀɴᴅ ᴘɢ **:  ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/AnonymousBoy1025)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/anonymous_was_bot)
