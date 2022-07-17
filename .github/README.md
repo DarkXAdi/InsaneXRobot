@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-<a href="https://t.me/DILLI_SE_HU_BHENCHOD"><img src="https://img.shields.io/badge/%20Adiii-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/INSANE_X_OWNER"><img src="https://img.shields.io/badge/%20Adiii-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
