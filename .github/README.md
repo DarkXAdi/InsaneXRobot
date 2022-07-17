@@ -26,7 +26,7 @@
 
 
 <p align="center">
-<a href="https://t.me/FriendsForever_xD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Insane_X_Fighters"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
